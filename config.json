@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "ordereelete",
+        "uuid": 11806524,
+        "checksum": "78l7oc"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
